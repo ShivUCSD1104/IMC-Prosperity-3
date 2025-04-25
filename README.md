@@ -12,7 +12,7 @@ ETF basket statistical arbitrage for `BASKETS` (hedged the underlying)
 ### Round 3: 
 Market Making call options contracts and delta hedging the underlying for `VOLCANIC_ROCKS` and their respective contracts
 
-![IMC](https://github.com/user-attachments/assets/9e4f8444-f49e-499d-8edc-d9c67fcdcdb3)
+![IMC](https://github.com/user-attachments/assets/b98b86f4-be4a-488e-a1af-9708c944c4e4)
 
 ### Round 4 and 5:
 We were not able to do anything since everyone was travelling, just submitted the same code again. 
