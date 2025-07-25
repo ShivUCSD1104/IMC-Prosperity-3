@@ -79,7 +79,3 @@ We jumped from rank 800 to around 140 for the manual section after round 4.
 # Round 5
 
 We did not attempt round 5, and had left the competition completely by this point. 
-
-# Ending statements 
-
-If you made it this far, thanks for reading. This trading challenge made me truly realise how prepared you need to have been when an opportunity presents itself. Many of the hours I spent cluelessly looking at graphs and numbers after throwing random data analysis libraries and AI prompts, reminding myself that there’s people out there that know what to look for is an incredibly exciting feeling. While at times demotivating, it’s good knowing the only way you can progress is forwards when you’re a beginner at the starting line.**
